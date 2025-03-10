@@ -1142,9 +1142,10 @@ ul.plan-list-style li i{
  }
 @media only screen and (min-width:1920px){
 
-    .container-fluid{
-        width: 1720px;
-    }
+    .container-fluid {
+        width: 2027px;
+        margin: auto;
+      }
     .banner-section-wrapper h1{
         font-size: 150px;
     }
