@@ -745,7 +745,6 @@ ul.plan-list-style li i{
 }
 
  /* about */
-
  
  .aboutbg2 {
     background-image: url(../images/aboutpagebackground.png);
@@ -753,6 +752,7 @@ ul.plan-list-style li i{
     background-size: cover;
     background-position: bottom;
     height: 400px;
+    margin-top: -2px;
  
  }
  .heaname h2 {
@@ -1300,6 +1300,20 @@ ul.plan-list-style li i{
     }
     .owl-nav.disabled {
         display: none !important;
+    }
+    .secabbdesfl {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .secabouttext {
+        padding-top: 40px;
+    }
+    .marrabout {
+        padding: 0px 60px 60px 60px;
+    
+    }
+    .secvisbgg {
+        padding: 60px 60px;
     }
 }
 @media only screen and (max-width:767px){
