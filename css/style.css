@@ -84,6 +84,7 @@ header{
     background-size: cover;
     position: relative;
     min-height: 950px;
+    margin-top: -2px;
 }
 .banner-section-wrapper h1{
     color: #E3B648;
@@ -962,7 +963,8 @@ ul.plan-list-style li i{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom;
-    height: 700px;
+    height: 600px;
+    margin-top: -2px;
  
  }
  .secmemberbg2w {
@@ -971,6 +973,7 @@ ul.plan-list-style li i{
     background-size: cover;
     background-position: bottom;
     height: 400px;
+    margin-top: -2px;
  
  }
 
@@ -982,14 +985,8 @@ ul.plan-list-style li i{
     font-size: 20px;
  }
   
- .secmemberbg2 {
-    background-image: url(../images/memberbgg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: bottom;
-    height: 700px;
+
  
- }
  .memversecb{
     margin-top: -350px;
  }
@@ -1062,6 +1059,8 @@ ul.plan-list-style li i{
 .secandclass22{
     background-color: #000;
     padding-bottom: 50px;
+    padding-top: 40px;
+    margin-top: -2px;
  }
  
  .sec-cont-hh {
@@ -1366,6 +1365,42 @@ ul.plan-list-style li i{
     }
     .club-environments-content h5{
         margin-bottom: 5px;
+    }
+    .owl-prev {
+        display: none;
+    }
+    .aboutbg2 {
+        margin-top: -2px;
+    }
+    .marrabout {
+        padding: 40px 10px;
+        margin-top: -112px;
+    }
+    .secabbdesfl {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+    .secabouttext {
+        padding-top: 20px;
+    }
+    .secvisbgg {
+        padding: 40px 10px;
+    }
+    .secvisintext {
+        font-size: 40px;
+    }
+    .ffgggcc2 {
+        padding-right: 0px;
+        padding-left: 0;
+    }
+    .text-left {
+        padding-bottom: 50px;
+    }
+    .blogbgg4 {
+        padding: 0px;
+    }
+    .secmemberbg {
+        margin-bottom: 30px;
     }
 }
 @media only screen and (max-width:575px){
