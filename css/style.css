@@ -414,7 +414,8 @@ ul.list-style li{
     background-size: cover;
 }
 .accordian-section-wrapper .accordion-item:hover{
-    background: linear-gradient(rgba(227,182,72,.8), rgba(252,158,8,.8)), url("../images/build-muscle.jpg");
+    background: linear-gradient(rgba(227,182,72,.8), rgba(252,158,8,.8)), url("../images/build-muscle.jpg") ;
+    background-size: cover;
 }
 .accordian-section-wrapper .accordion-item .btn{
     color: #000000;
