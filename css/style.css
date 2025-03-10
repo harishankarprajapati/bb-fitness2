@@ -1146,6 +1146,10 @@ ul.plan-list-style li i{
         width: 1905px;
         margin: auto;
       }
+      .secmemberbg2w {
+        background-position: top;
+        height: 267px;
+      }
     .banner-section-wrapper h1{
         font-size: 150px;
     }
