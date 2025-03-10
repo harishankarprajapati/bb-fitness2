@@ -1289,6 +1289,15 @@ ul.plan-list-style li i{
     .marquee-container ul li{
         font-size: 38px;
     }
+    .owl-nav {
+        display: none;
+    }
+    .text-left {
+        padding-bottom: 80px;
+    }
+    .secmemberbg {
+        margin-bottom: 50px;
+    }
 }
 @media only screen and (max-width:767px){
 
