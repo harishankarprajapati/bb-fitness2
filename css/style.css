@@ -1298,6 +1298,9 @@ ul.plan-list-style li i{
     .secmemberbg {
         margin-bottom: 50px;
     }
+    .owl-nav.disabled {
+        display: none !important;
+    }
 }
 @media only screen and (max-width:767px){
 
